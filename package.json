@@ -1,0 +1,25 @@
+{
+  "name": "simulador-labirinto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilenaXXXX/milena-repo.git"
+  },
+  "author": "MilenaXXXX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilenaXXXX/milena-repo/issues"
+  },
+  "homepage": "https://github.com/MilenaXXXX/milena-repo#readme",
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "cli-color": "^2.0.3",
+    "node-fetch": "^3.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
